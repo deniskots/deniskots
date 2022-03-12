@@ -1,6 +1,6 @@
-### Hi, I'm Denis 👋
-![](assets/cover.jpg)
+![](assets/cover.png)
 
+### Hi, I'm Denis 👋
 ### Languages and tools
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
